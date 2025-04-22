@@ -22,5 +22,8 @@ Here are some preliminary results.
 We can see that as the scale of the database increases, as does the average query runtime.
 ![Scale vs Average Runtime](results/scale_v_avg_runtime.png)
 
-Looking at the worst performing queries based on runtime, we some consistency between the worst performing queries. This is typically 9, 21, 13 respectively. 
-![alt text](results/worst_performing_queries.png)
+Looking at the worst performing queries based on runtime, we see some consistency between the worst performing queries. This is typically 9, 21, 13 respectively. 
+![Worst Performing Queries](results/worst_performing_queries.png)
+
+Looking at the best performing queries based on runtime, wesee some consistency between the best performing queries. This is typically 11 then either 6 or 2.
+![Best Performing Queries](results/best_performing_queries.png)
