@@ -14,7 +14,7 @@ SF100 means database size is 100GB which is large.
 ## Experiment Explanation
 Ran experiments on [WPI Turing Server](https://arc.wpi.edu/computing/hpc-clusters/). 
 - Code for the experiments can be found in experiments.py
-- Using [DuckDB package](https://duckdb.org/), we are able to analyze the performance of the 22 TPC-H queries across different scales [1, 10, 20, 30, 40, 50..].
+- Using [DuckDB package](https://duckdb.org/), we are able to analyze the performance of the 22 TPC-H queries across different scales [1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100].
 
 ## Experiment Results
 Here are some preliminary results.
